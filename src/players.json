@@ -1,0 +1,1875 @@
+{
+  "_internal": {
+    "pubDateTime": "2017-06-23 03:21:52.076",
+    "xslt": "xsl/league/roster/marty_active_players.xsl",
+    "eventName": "league_roster"
+  },
+  "league": {
+    "standard": [
+      {
+        "firstName": "Alex",
+        "lastName": "Abrines",
+        "personId": "203518",
+        "teamId": "1610612760 1610612760",
+        "jersey": "8",
+        "pos": "G-F",
+        "heightFeet": "6",
+        "heightInches": "6",
+        "heightMeters": "1.98",
+        "weightPounds": "190",
+        "weightKilograms": "86.2",
+        "dateOfBirthUTC": "1993-08-01",
+        "teams": [
+          {
+            "teamId": "1610612760",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612760",
+          "pickNum": "32",
+          "roundNum": "2",
+          "seasonYear": "2013"
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "",
+        "lastAffiliation": "Spain/Spain",
+        "country": "Spain"
+      },
+      {
+        "firstName": "Quincy",
+        "lastName": "Acy",
+        "personId": "203112",
+        "teamId": "1610612751 1610612751",
+        "jersey": "13",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "7",
+        "heightMeters": "2.01",
+        "weightPounds": "240",
+        "weightKilograms": "108.9",
+        "dateOfBirthUTC": "1990-10-06",
+        "teams": [
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2012",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2014",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612751",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          },
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612761",
+          "pickNum": "37",
+          "roundNum": "2",
+          "seasonYear": "2012"
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "Baylor",
+        "lastAffiliation": "Baylor/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Steven",
+        "lastName": "Adams",
+        "personId": "203500",
+        "teamId": "1610612760 1610612760",
+        "jersey": "12",
+        "pos": "C",
+        "heightFeet": "7",
+        "heightInches": "0",
+        "heightMeters": "2.13",
+        "weightPounds": "255",
+        "weightKilograms": "115.7",
+        "dateOfBirthUTC": "1993-07-20",
+        "teams": [
+          {
+            "teamId": "1610612760",
+            "seasonStart": "2013",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612760",
+          "pickNum": "12",
+          "roundNum": "1",
+          "seasonYear": "2013"
+        },
+        "nbaDebutYear": "2013",
+        "yearsPro": "3",
+        "collegeName": "Pittsburgh",
+        "lastAffiliation": "Pittsburgh/New Zealand",
+        "country": "New Zealand"
+      },
+      {
+        "firstName": "Arron",
+        "lastName": "Afflalo",
+        "personId": "201167",
+        "teamId": "1610612758 1610612758",
+        "jersey": "40",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "5",
+        "heightMeters": "1.96",
+        "weightPounds": "210",
+        "weightKilograms": "95.3",
+        "dateOfBirthUTC": "1985-10-15",
+        "teams": [
+          {
+            "teamId": "1610612765",
+            "seasonStart": "2007",
+            "seasonEnd": "2008"
+          },
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2009",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612753",
+            "seasonStart": "2012",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2014",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2014",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612765",
+          "pickNum": "27",
+          "roundNum": "1",
+          "seasonYear": "2007"
+        },
+        "nbaDebutYear": "2007",
+        "yearsPro": "9",
+        "collegeName": "UCLA",
+        "lastAffiliation": "UCLA/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Alexis",
+        "lastName": "Ajinca",
+        "personId": "201582",
+        "teamId": "1610612740 1610612740",
+        "jersey": "42",
+        "pos": "C",
+        "heightFeet": "7",
+        "heightInches": "2",
+        "heightMeters": "2.18",
+        "weightPounds": "248",
+        "weightKilograms": "112.5",
+        "dateOfBirthUTC": "1988-05-06",
+        "teams": [
+          {
+            "teamId": "1610612766",
+            "seasonStart": "2008",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2010",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2010",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2013",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612766",
+          "pickNum": "20",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "6",
+        "collegeName": "Saint Etienne, France",
+        "lastAffiliation": "St. Etienne/France",
+        "country": "France"
+      },
+      {
+        "firstName": "Cole",
+        "lastName": "Aldrich",
+        "personId": "202332",
+        "teamId": "1610612750 1610612750",
+        "jersey": "45",
+        "pos": "C",
+        "heightFeet": "6",
+        "heightInches": "11",
+        "heightMeters": "2.11",
+        "weightPounds": "250",
+        "weightKilograms": "113.4",
+        "dateOfBirthUTC": "1988-10-31",
+        "teams": [
+          {
+            "teamId": "1610612760",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2013",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612746",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612750",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612740",
+          "pickNum": "11",
+          "roundNum": "1",
+          "seasonYear": "2010"
+        },
+        "nbaDebutYear": "2010",
+        "yearsPro": "6",
+        "collegeName": "Kansas",
+        "lastAffiliation": "Kansas/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "LaMarcus",
+        "lastName": "Aldridge",
+        "personId": "200746",
+        "teamId": "1610612759 1610612759",
+        "jersey": "12",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "11",
+        "heightMeters": "2.11",
+        "weightPounds": "260",
+        "weightKilograms": "117.9",
+        "dateOfBirthUTC": "1985-07-19",
+        "teams": [
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2006",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612759",
+            "seasonStart": "2015",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612741",
+          "pickNum": "2",
+          "roundNum": "1",
+          "seasonYear": "2006"
+        },
+        "nbaDebutYear": "2006",
+        "yearsPro": "10",
+        "collegeName": "Texas",
+        "lastAffiliation": "Texas/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Lavoy",
+        "lastName": "Allen",
+        "personId": "202730",
+        "teamId": "1610612754 1610612754",
+        "jersey": "5",
+        "pos": "F-C",
+        "heightFeet": "6",
+        "heightInches": "9",
+        "heightMeters": "2.06",
+        "weightPounds": "260",
+        "weightKilograms": "117.9",
+        "dateOfBirthUTC": "1989-02-04",
+        "teams": [
+          {
+            "teamId": "1610612755",
+            "seasonStart": "2011",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612754",
+            "seasonStart": "2013",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612755",
+          "pickNum": "50",
+          "roundNum": "2",
+          "seasonYear": "2011"
+        },
+        "nbaDebutYear": "2011",
+        "yearsPro": "5",
+        "collegeName": "Temple",
+        "lastAffiliation": "Temple/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Tony",
+        "lastName": "Allen",
+        "personId": "2754",
+        "teamId": "1610612763 1610612763",
+        "jersey": "9",
+        "pos": "G-F",
+        "heightFeet": "6",
+        "heightInches": "4",
+        "heightMeters": "1.93",
+        "weightPounds": "213",
+        "weightKilograms": "96.6",
+        "dateOfBirthUTC": "1982-01-11",
+        "teams": [
+          {
+            "teamId": "1610612738",
+            "seasonStart": "2004",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612763",
+            "seasonStart": "2010",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612738",
+          "pickNum": "25",
+          "roundNum": "1",
+          "seasonYear": "2004"
+        },
+        "nbaDebutYear": "2004",
+        "yearsPro": "12",
+        "collegeName": "Oklahoma State",
+        "lastAffiliation": "Oklahoma State/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Al-Farouq",
+        "lastName": "Aminu",
+        "personId": "202329",
+        "teamId": "1610612757 1610612757",
+        "jersey": "8",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "9",
+        "heightMeters": "2.06",
+        "weightPounds": "220",
+        "weightKilograms": "99.8",
+        "dateOfBirthUTC": "1990-09-21",
+        "teams": [
+          {
+            "teamId": "1610612746",
+            "seasonStart": "2010",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2011",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2014",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2015",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612746",
+          "pickNum": "8",
+          "roundNum": "1",
+          "seasonYear": "2010"
+        },
+        "nbaDebutYear": "2010",
+        "yearsPro": "6",
+        "collegeName": "Wake Forest",
+        "lastAffiliation": "Wake Forest/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Alan",
+        "lastName": "Anderson",
+        "personId": "101187",
+        "teamId": "1610612746 1610612746",
+        "jersey": "9",
+        "pos": "F-G",
+        "heightFeet": "6",
+        "heightInches": "6",
+        "heightMeters": "1.98",
+        "weightPounds": "220",
+        "weightKilograms": "99.8",
+        "dateOfBirthUTC": "1982-10-16",
+        "teams": [
+          {
+            "teamId": "1610612766",
+            "seasonStart": "2005",
+            "seasonEnd": "2006"
+          },
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2011",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612751",
+            "seasonStart": "2013",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612764",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612746",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "",
+          "pickNum": "",
+          "roundNum": "",
+          "seasonYear": ""
+        },
+        "nbaDebutYear": "2005",
+        "yearsPro": "7",
+        "collegeName": "Michigan State",
+        "lastAffiliation": "Michigan State/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Justin",
+        "lastName": "Anderson",
+        "personId": "1626147",
+        "teamId": "1610612755 1610612755",
+        "jersey": "23",
+        "pos": "G-F",
+        "heightFeet": "6",
+        "heightInches": "6",
+        "heightMeters": "1.98",
+        "weightPounds": "228",
+        "weightKilograms": "103.4",
+        "dateOfBirthUTC": "1993-11-19",
+        "teams": [
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2015",
+            "seasonEnd": "2016"
+          },
+          {
+            "teamId": "1610612755",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612742",
+          "pickNum": "21",
+          "roundNum": "1",
+          "seasonYear": "2015"
+        },
+        "nbaDebutYear": "2015",
+        "yearsPro": "1",
+        "collegeName": "Virginia",
+        "lastAffiliation": "Virginia/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Kyle",
+        "lastName": "Anderson",
+        "personId": "203937",
+        "teamId": "1610612759 1610612759",
+        "jersey": "1",
+        "pos": "G-F",
+        "heightFeet": "6",
+        "heightInches": "9",
+        "heightMeters": "2.06",
+        "weightPounds": "230",
+        "weightKilograms": "104.3",
+        "dateOfBirthUTC": "1993-09-20",
+        "teams": [
+          {
+            "teamId": "1610612759",
+            "seasonStart": "2014",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612759",
+          "pickNum": "30",
+          "roundNum": "1",
+          "seasonYear": "2014"
+        },
+        "nbaDebutYear": "2014",
+        "yearsPro": "2",
+        "collegeName": "UCLA",
+        "lastAffiliation": "UCLA/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Ryan",
+        "lastName": "Anderson",
+        "personId": "201583",
+        "teamId": "1610612745 1610612745",
+        "jersey": "3",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "10",
+        "heightMeters": "2.08",
+        "weightPounds": "240",
+        "weightKilograms": "108.9",
+        "dateOfBirthUTC": "1988-05-06",
+        "teams": [
+          {
+            "teamId": "1610612751",
+            "seasonStart": "2008",
+            "seasonEnd": "2008"
+          },
+          {
+            "teamId": "1610612753",
+            "seasonStart": "2009",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2012",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612751",
+          "pickNum": "21",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "8",
+        "collegeName": "California",
+        "lastAffiliation": "California/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Giannis",
+        "lastName": "Antetokounmpo",
+        "personId": "203507",
+        "teamId": "1610612749 1610612749",
+        "jersey": "34",
+        "pos": "F-G",
+        "heightFeet": "6",
+        "heightInches": "11",
+        "heightMeters": "2.11",
+        "weightPounds": "222",
+        "weightKilograms": "100.7",
+        "dateOfBirthUTC": "1994-12-06",
+        "teams": [
+          {
+            "teamId": "1610612749",
+            "seasonStart": "2013",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612749",
+          "pickNum": "15",
+          "roundNum": "1",
+          "seasonYear": "2013"
+        },
+        "nbaDebutYear": "2013",
+        "yearsPro": "3",
+        "collegeName": "Greece",
+        "lastAffiliation": "Greece/Greece",
+        "country": "Greece"
+      },
+      {
+        "firstName": "Carmelo",
+        "lastName": "Anthony",
+        "personId": "2546",
+        "teamId": "1610612752 1610612752",
+        "jersey": "7",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "8",
+        "heightMeters": "2.03",
+        "weightPounds": "240",
+        "weightKilograms": "108.9",
+        "dateOfBirthUTC": "1984-05-29",
+        "teams": [
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2003",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2010",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612743",
+          "pickNum": "3",
+          "roundNum": "1",
+          "seasonYear": "2003"
+        },
+        "nbaDebutYear": "2003",
+        "yearsPro": "13",
+        "collegeName": "Syracuse",
+        "lastAffiliation": "Syracuse/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Joel",
+        "lastName": "Anthony",
+        "personId": "201202",
+        "teamId": "1610612759 1610612759",
+        "jersey": "30",
+        "pos": "C",
+        "heightFeet": "6",
+        "heightInches": "9",
+        "heightMeters": "2.06",
+        "weightPounds": "245",
+        "weightKilograms": "111.1",
+        "dateOfBirthUTC": "1982-08-09",
+        "teams": [
+          {
+            "teamId": "1610612748",
+            "seasonStart": "2007",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612738",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612765",
+            "seasonStart": "2014",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612759",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "",
+          "pickNum": "",
+          "roundNum": "",
+          "seasonYear": ""
+        },
+        "nbaDebutYear": "2007",
+        "yearsPro": "9",
+        "collegeName": "Nevada-Las Vegas",
+        "lastAffiliation": "UNLV/Canada",
+        "country": "Canada"
+      },
+      {
+        "firstName": "Trevor",
+        "lastName": "Ariza",
+        "personId": "2772",
+        "teamId": "1610612745 1610612745",
+        "jersey": "1",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "8",
+        "heightMeters": "2.03",
+        "weightPounds": "215",
+        "weightKilograms": "97.5",
+        "dateOfBirthUTC": "1985-06-30",
+        "teams": [
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2004",
+            "seasonEnd": "2005"
+          },
+          {
+            "teamId": "1610612753",
+            "seasonStart": "2005",
+            "seasonEnd": "2007"
+          },
+          {
+            "teamId": "1610612747",
+            "seasonStart": "2007",
+            "seasonEnd": "2008"
+          },
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2009",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612764",
+            "seasonStart": "2012",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2014",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612752",
+          "pickNum": "43",
+          "roundNum": "2",
+          "seasonYear": "2004"
+        },
+        "nbaDebutYear": "2004",
+        "yearsPro": "12",
+        "collegeName": "UCLA",
+        "lastAffiliation": "UCLA/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Darrell",
+        "lastName": "Arthur",
+        "personId": "201589",
+        "teamId": "1610612743 1610612743",
+        "jersey": "00",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "9",
+        "heightMeters": "2.06",
+        "weightPounds": "235",
+        "weightKilograms": "106.6",
+        "dateOfBirthUTC": "1988-03-25",
+        "teams": [
+          {
+            "teamId": "1610612763",
+            "seasonStart": "2008",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2013",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612740",
+          "pickNum": "27",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "7",
+        "collegeName": "Kansas",
+        "lastAffiliation": "Kansas/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Omer",
+        "lastName": "Asik",
+        "personId": "201600",
+        "teamId": "1610612740 1610612740",
+        "jersey": "3",
+        "pos": "C",
+        "heightFeet": "7",
+        "heightInches": "0",
+        "heightMeters": "2.13",
+        "weightPounds": "255",
+        "weightKilograms": "115.7",
+        "dateOfBirthUTC": "1986-07-04",
+        "teams": [
+          {
+            "teamId": "1610612741",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2012",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2014",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612757",
+          "pickNum": "36",
+          "roundNum": "2",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2010",
+        "yearsPro": "6",
+        "collegeName": "Turkey",
+        "lastAffiliation": "Fenerbahce S.K./Turkey",
+        "country": "Turkey"
+      },
+      {
+        "firstName": "D.J.",
+        "lastName": "Augustin",
+        "personId": "201571",
+        "teamId": "1610612753 1610612753",
+        "jersey": "14",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "0",
+        "heightMeters": "1.83",
+        "weightPounds": "183",
+        "weightKilograms": "83.0",
+        "dateOfBirthUTC": "1987-11-10",
+        "teams": [
+          {
+            "teamId": "1610612766",
+            "seasonStart": "2008",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612754",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612741",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612765",
+            "seasonStart": "2014",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612760",
+            "seasonStart": "2014",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612753",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612766",
+          "pickNum": "9",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "8",
+        "collegeName": "Texas",
+        "lastAffiliation": "Texas/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Luke",
+        "lastName": "Babbitt",
+        "personId": "202337",
+        "teamId": "1610612748 1610612748",
+        "jersey": "5",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "9",
+        "heightMeters": "2.06",
+        "weightPounds": "225",
+        "weightKilograms": "102.1",
+        "dateOfBirthUTC": "1989-06-20",
+        "teams": [
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2010",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2013",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612748",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612750",
+          "pickNum": "16",
+          "roundNum": "1",
+          "seasonYear": "2010"
+        },
+        "nbaDebutYear": "2010",
+        "yearsPro": "6",
+        "collegeName": "Nevada",
+        "lastAffiliation": "Nevada-Reno/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Ron",
+        "lastName": "Baker",
+        "personId": "1627758",
+        "teamId": "1610612752 1610612752",
+        "jersey": "31",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "4",
+        "heightMeters": "1.93",
+        "weightPounds": "220",
+        "weightKilograms": "99.8",
+        "dateOfBirthUTC": "1993-03-30",
+        "teams": [
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "",
+          "pickNum": "",
+          "roundNum": "",
+          "seasonYear": ""
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "Wichita State",
+        "lastAffiliation": "Wichita State/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Wade",
+        "lastName": "Baldwin IV",
+        "personId": "1627735",
+        "teamId": "1610612763 1610612763",
+        "jersey": "4",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "4",
+        "heightMeters": "1.93",
+        "weightPounds": "202",
+        "weightKilograms": "91.6",
+        "dateOfBirthUTC": "1996-03-29",
+        "teams": [
+          {
+            "teamId": "1610612763",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612763",
+          "pickNum": "17",
+          "roundNum": "1",
+          "seasonYear": "2016"
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "Vanderbilt",
+        "lastAffiliation": "Vanderbilt/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Leandro",
+        "lastName": "Barbosa",
+        "personId": "2571",
+        "teamId": "1610612756 1610612756",
+        "jersey": "19",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "3",
+        "heightMeters": "1.9",
+        "weightPounds": "194",
+        "weightKilograms": "88.0",
+        "dateOfBirthUTC": "1982-11-28",
+        "teams": [
+          {
+            "teamId": "1610612756",
+            "seasonStart": "2003",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612754",
+            "seasonStart": "2011",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612738",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612764",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612756",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612744",
+            "seasonStart": "2014",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612756",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612759",
+          "pickNum": "28",
+          "roundNum": "1",
+          "seasonYear": "2003"
+        },
+        "nbaDebutYear": "2003",
+        "yearsPro": "13",
+        "collegeName": "Sau Paulo, Brazil",
+        "lastAffiliation": "Palmeiras/Brazil",
+        "country": "Brazil"
+      },
+      {
+        "firstName": "J.J.",
+        "lastName": "Barea",
+        "personId": "200826",
+        "teamId": "1610612742 1610612742",
+        "jersey": "5",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "0",
+        "heightMeters": "1.83",
+        "weightPounds": "185",
+        "weightKilograms": "83.9",
+        "dateOfBirthUTC": "1984-06-26",
+        "teams": [
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2006",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612750",
+            "seasonStart": "2011",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2014",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "",
+          "pickNum": "",
+          "roundNum": "",
+          "seasonYear": ""
+        },
+        "nbaDebutYear": "2006",
+        "yearsPro": "10",
+        "collegeName": "Northeastern",
+        "lastAffiliation": "Northeastern/Puerto Rico",
+        "country": "Puerto Rico"
+      },
+      {
+        "firstName": "Harrison",
+        "lastName": "Barnes",
+        "personId": "203084",
+        "teamId": "1610612742 1610612742",
+        "jersey": "40",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "8",
+        "heightMeters": "2.03",
+        "weightPounds": "225",
+        "weightKilograms": "102.1",
+        "dateOfBirthUTC": "1992-05-30",
+        "teams": [
+          {
+            "teamId": "1610612744",
+            "seasonStart": "2012",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612744",
+          "pickNum": "7",
+          "roundNum": "1",
+          "seasonYear": "2012"
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "North Carolina",
+        "lastAffiliation": "North Carolina/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Matt",
+        "lastName": "Barnes",
+        "personId": "2440",
+        "teamId": "1610612744 1610612744",
+        "jersey": "22",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "7",
+        "heightMeters": "2.01",
+        "weightPounds": "226",
+        "weightKilograms": "102.5",
+        "dateOfBirthUTC": "1980-03-09",
+        "teams": [
+          {
+            "teamId": "1610612739",
+            "seasonStart": "2002",
+            "seasonEnd": "2002"
+          },
+          {
+            "teamId": "1610612746",
+            "seasonStart": "2003",
+            "seasonEnd": "2003"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2004",
+            "seasonEnd": "2004"
+          },
+          {
+            "teamId": "1610612755",
+            "seasonStart": "2005",
+            "seasonEnd": "2005"
+          },
+          {
+            "teamId": "1610612752",
+            "seasonStart": "2005",
+            "seasonEnd": "2005"
+          },
+          {
+            "teamId": "1610612744",
+            "seasonStart": "2006",
+            "seasonEnd": "2007"
+          },
+          {
+            "teamId": "1610612756",
+            "seasonStart": "2008",
+            "seasonEnd": "2008"
+          },
+          {
+            "teamId": "1610612753",
+            "seasonStart": "2009",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612747",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612746",
+            "seasonStart": "2012",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612763",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612744",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612763",
+          "pickNum": "45",
+          "roundNum": "2",
+          "seasonYear": "2002"
+        },
+        "nbaDebutYear": "2003",
+        "yearsPro": "13",
+        "collegeName": "UCLA",
+        "lastAffiliation": "UCLA/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Will",
+        "lastName": "Barton",
+        "personId": "203115",
+        "teamId": "1610612743 1610612743",
+        "jersey": "5",
+        "pos": "G-F",
+        "heightFeet": "6",
+        "heightInches": "6",
+        "heightMeters": "1.98",
+        "weightPounds": "175",
+        "weightKilograms": "79.4",
+        "dateOfBirthUTC": "1991-01-06",
+        "teams": [
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2012",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2014",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612757",
+          "pickNum": "40",
+          "roundNum": "2",
+          "seasonYear": "2012"
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "Memphis",
+        "lastAffiliation": "Memphis/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Brandon",
+        "lastName": "Bass",
+        "personId": "101138",
+        "teamId": "1610612746 1610612746",
+        "jersey": "30",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "8",
+        "heightMeters": "2.03",
+        "weightPounds": "250",
+        "weightKilograms": "113.4",
+        "dateOfBirthUTC": "1985-04-30",
+        "teams": [
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2005",
+            "seasonEnd": "2006"
+          },
+          {
+            "teamId": "1610612742",
+            "seasonStart": "2007",
+            "seasonEnd": "2008"
+          },
+          {
+            "teamId": "1610612753",
+            "seasonStart": "2009",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612738",
+            "seasonStart": "2011",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612747",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612746",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612740",
+          "pickNum": "33",
+          "roundNum": "2",
+          "seasonYear": "2005"
+        },
+        "nbaDebutYear": "2005",
+        "yearsPro": "11",
+        "collegeName": "Louisiana State",
+        "lastAffiliation": "Louisiana State/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Nicolas",
+        "lastName": "Batum",
+        "personId": "201587",
+        "teamId": "1610612766 1610612766",
+        "jersey": "5",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "8",
+        "heightMeters": "2.03",
+        "weightPounds": "200",
+        "weightKilograms": "90.7",
+        "dateOfBirthUTC": "1988-12-14",
+        "teams": [
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2008",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612766",
+            "seasonStart": "2015",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612745",
+          "pickNum": "25",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "8",
+        "collegeName": "Lisieux, France",
+        "lastAffiliation": "Le Mans/France",
+        "country": "France"
+      },
+      {
+        "firstName": "Jerryd",
+        "lastName": "Bayless",
+        "personId": "201573",
+        "teamId": "1610612755 1610612755",
+        "jersey": "0",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "3",
+        "heightMeters": "1.9",
+        "weightPounds": "200",
+        "weightKilograms": "90.7",
+        "dateOfBirthUTC": "1988-08-20",
+        "teams": [
+          {
+            "teamId": "1610612757",
+            "seasonStart": "2008",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2010",
+            "seasonEnd": "2010"
+          },
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612763",
+            "seasonStart": "2012",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612738",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612749",
+            "seasonStart": "2014",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612755",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612754",
+          "pickNum": "11",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "8",
+        "collegeName": "Arizona",
+        "lastAffiliation": "Arizona/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Aron",
+        "lastName": "Baynes",
+        "personId": "203382",
+        "teamId": "1610612765 1610612765",
+        "jersey": "12",
+        "pos": "C-F",
+        "heightFeet": "6",
+        "heightInches": "10",
+        "heightMeters": "2.08",
+        "weightPounds": "260",
+        "weightKilograms": "117.9",
+        "dateOfBirthUTC": "1986-12-09",
+        "teams": [
+          {
+            "teamId": "1610612759",
+            "seasonStart": "2012",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612765",
+            "seasonStart": "2015",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "",
+          "pickNum": "",
+          "roundNum": "",
+          "seasonYear": ""
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "Washington State",
+        "lastAffiliation": "WashingtonAustraliaState/Australia",
+        "country": "Australia"
+      },
+      {
+        "firstName": "Kent",
+        "lastName": "Bazemore",
+        "personId": "203145",
+        "teamId": "1610612737 1610612737",
+        "jersey": "24",
+        "pos": "F-G",
+        "heightFeet": "6",
+        "heightInches": "5",
+        "heightMeters": "1.96",
+        "weightPounds": "201",
+        "weightKilograms": "91.2",
+        "dateOfBirthUTC": "1989-07-01",
+        "teams": [
+          {
+            "teamId": "1610612744",
+            "seasonStart": "2012",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612747",
+            "seasonStart": "2013",
+            "seasonEnd": "2013"
+          },
+          {
+            "teamId": "1610612737",
+            "seasonStart": "2014",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "",
+          "pickNum": "",
+          "roundNum": "",
+          "seasonYear": ""
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "Old Dominion",
+        "lastAffiliation": "Old Dominion/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Bradley",
+        "lastName": "Beal",
+        "personId": "203078",
+        "teamId": "1610612764 1610612764",
+        "jersey": "3",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "5",
+        "heightMeters": "1.96",
+        "weightPounds": "207",
+        "weightKilograms": "93.9",
+        "dateOfBirthUTC": "1993-06-28",
+        "teams": [
+          {
+            "teamId": "1610612764",
+            "seasonStart": "2012",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612764",
+          "pickNum": "3",
+          "roundNum": "1",
+          "seasonYear": "2012"
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "Florida",
+        "lastAffiliation": "Florida/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Malik",
+        "lastName": "Beasley",
+        "personId": "1627736",
+        "teamId": "1610612743 1610612743",
+        "jersey": "25",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "5",
+        "heightMeters": "1.96",
+        "weightPounds": "196",
+        "weightKilograms": "88.9",
+        "dateOfBirthUTC": "1996-11-26",
+        "teams": [
+          {
+            "teamId": "1610612743",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612743",
+          "pickNum": "19",
+          "roundNum": "1",
+          "seasonYear": "2016"
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "Florida State",
+        "lastAffiliation": "Florida State/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Beasley",
+        "personId": "201563",
+        "teamId": "1610612749 1610612749",
+        "jersey": "9",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "10",
+        "heightMeters": "2.08",
+        "weightPounds": "235",
+        "weightKilograms": "106.6",
+        "dateOfBirthUTC": "1989-01-09",
+        "teams": [
+          {
+            "teamId": "1610612748",
+            "seasonStart": "2008",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612750",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612756",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612748",
+            "seasonStart": "2013",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612749",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612748",
+          "pickNum": "2",
+          "roundNum": "1",
+          "seasonYear": "2008"
+        },
+        "nbaDebutYear": "2008",
+        "yearsPro": "8",
+        "collegeName": "Kansas State",
+        "lastAffiliation": "KansasUnited StatesState/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Marco",
+        "lastName": "Belinelli",
+        "personId": "201158",
+        "teamId": "1610612737 1610612766",
+        "jersey": "21",
+        "pos": "G-F",
+        "heightFeet": "6",
+        "heightInches": "5",
+        "heightMeters": "1.96",
+        "weightPounds": "210",
+        "weightKilograms": "95.3",
+        "dateOfBirthUTC": "1986-03-25",
+        "teams": [
+          {
+            "teamId": "1610612744",
+            "seasonStart": "2007",
+            "seasonEnd": "2008"
+          },
+          {
+            "teamId": "1610612761",
+            "seasonStart": "2009",
+            "seasonEnd": "2009"
+          },
+          {
+            "teamId": "1610612740",
+            "seasonStart": "2010",
+            "seasonEnd": "2011"
+          },
+          {
+            "teamId": "1610612741",
+            "seasonStart": "2012",
+            "seasonEnd": "2012"
+          },
+          {
+            "teamId": "1610612759",
+            "seasonStart": "2013",
+            "seasonEnd": "2014"
+          },
+          {
+            "teamId": "1610612758",
+            "seasonStart": "2015",
+            "seasonEnd": "2015"
+          },
+          {
+            "teamId": "1610612766",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612744",
+          "pickNum": "18",
+          "roundNum": "1",
+          "seasonYear": "2007"
+        },
+        "nbaDebutYear": "2007",
+        "yearsPro": "9",
+        "collegeName": "Bologna, Italy",
+        "lastAffiliation": "Fortitudo Bologna/Italy",
+        "country": "Italy"
+      },
+      {
+        "firstName": "DeAndre'",
+        "lastName": "Bembry",
+        "personId": "1627761",
+        "teamId": "1610612737 1610612737",
+        "jersey": "95",
+        "pos": "F-G",
+        "heightFeet": "6",
+        "heightInches": "6",
+        "heightMeters": "1.98",
+        "weightPounds": "210",
+        "weightKilograms": "95.3",
+        "dateOfBirthUTC": "1994-07-04",
+        "teams": [
+          {
+            "teamId": "1610612737",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612737",
+          "pickNum": "21",
+          "roundNum": "1",
+          "seasonYear": "2016"
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "Saint Joseph's",
+        "lastAffiliation": "St. Joseph's (PA)/USA",
+        "country": "USA"
+      },
+      {
+        "firstName": "Dragan",
+        "lastName": "Bender",
+        "personId": "1627733",
+        "teamId": "1610612756 1610612756",
+        "jersey": "35",
+        "pos": "F",
+        "heightFeet": "7",
+        "heightInches": "1",
+        "heightMeters": "2.16",
+        "weightPounds": "225",
+        "weightKilograms": "102.1",
+        "dateOfBirthUTC": "1997-11-17",
+        "teams": [
+          {
+            "teamId": "1610612756",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612756",
+          "pickNum": "4",
+          "roundNum": "1",
+          "seasonYear": "2016"
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "",
+        "lastAffiliation": "Bosnia/Bosnia",
+        "country": "Bosnia"
+      },
+      {
+        "firstName": "Davis",
+        "lastName": "Bertans",
+        "personId": "202722",
+        "teamId": "1610612759 1610612759",
+        "jersey": "42",
+        "pos": "F",
+        "heightFeet": "6",
+        "heightInches": "10",
+        "heightMeters": "2.08",
+        "weightPounds": "210",
+        "weightKilograms": "95.3",
+        "dateOfBirthUTC": "1992-11-12",
+        "teams": [
+          {
+            "teamId": "1610612759",
+            "seasonStart": "2016",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612754",
+          "pickNum": "42",
+          "roundNum": "2",
+          "seasonYear": "2011"
+        },
+        "nbaDebutYear": "2016",
+        "yearsPro": "0",
+        "collegeName": "",
+        "lastAffiliation": " Latvia/Latvia",
+        "country": "Latvia"
+      },
+      {
+        "firstName": "Patrick",
+        "lastName": "Beverley",
+        "personId": "201976",
+        "teamId": "1610612745 1610612745",
+        "jersey": "2",
+        "pos": "G",
+        "heightFeet": "6",
+        "heightInches": "1",
+        "heightMeters": "1.85",
+        "weightPounds": "185",
+        "weightKilograms": "83.9",
+        "dateOfBirthUTC": "1988-07-12",
+        "teams": [
+          {
+            "teamId": "1610612745",
+            "seasonStart": "2012",
+            "seasonEnd": "2016"
+          }
+        ],
+        "draft": {
+          "teamId": "1610612747",
+          "pickNum": "42",
+          "roundNum": "2",
+          "seasonYear": "2009"
+        },
+        "nbaDebutYear": "2012",
+        "yearsPro": "4",
+        "collegeName": "Arkansas",
+        "lastAffiliation": "Arkansas/USA",
+        "country": "USA"
+      }
+    ]
+  }
+}
